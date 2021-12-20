@@ -61,6 +61,8 @@ session_start();
 					<div class="col-lg-l0 col-lg-offset-2">
                     <button type="submit" name="submit" class="btn btn-primary">Submit</button> <br> <br>
                     <a href="signup.php">Click to Sign Up</a>
+                    <!--NOTE: Only for OCR Asprise demo, will have to move it-->
+                    <!--TO TEST OCR Asprise - LINE <<a href="machinevision.php">Click to Sign Up</a>
 				</div>
 			</fieldset>
 		</form>
